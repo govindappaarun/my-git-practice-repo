@@ -10,7 +10,7 @@
 
 5. create PR - feature/add-sorting-datatable -> develop
 
-6. dev1 & dev3 will review my code
+6. Dev1 & dev3 will review my code
    - suggest improvements
    - missing things
    - any bugs / defects
